@@ -28,7 +28,7 @@ As you can see, it is a major work in progress. I am working to expand this into
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/boo-jams.git
+   git clone https://github.com/semafoua/boo-jams.git
    ```
 2. Navigate to the game directory:
    ```bash
@@ -46,7 +46,7 @@ As you can see, it is a major work in progress. I am working to expand this into
 3. Use the on-screen buttons to toggle ghost sounds on and off.
 4. Jam out! Experiment with what you can create!
 
-## Acknowledgments
+## Credits
 
 - **Pygame Community**: For resources and inspiration.
-- **Sarika**: Creator of this game. Alpha Build.
+- Sarika: Creator
